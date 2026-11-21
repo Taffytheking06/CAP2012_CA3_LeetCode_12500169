@@ -1,3 +1,4 @@
+//
 int searchInsert(int* nums, int numsSize, int target) {
     int left = 0, right = numsSize - 1;
 
